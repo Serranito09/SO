@@ -1,0 +1,3 @@
+implementar un programa que reciba por argumentos tantos ficheros como uno quiera,
+el programa debera crear tantos hilos como argumentos se hayan pasado,cada hilo debe imprimir
+el nombre del fichero que le haya tocado y el numero de lineas que este tiene 
