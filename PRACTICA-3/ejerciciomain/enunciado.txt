@@ -1,0 +1,2 @@
+//Ejercicio que le pasamos el numero de hilos si por ejemplo le pasamos 7 y me haga 7 veces un sumador de 1 y cuando termine el sumador que haga un restador 7 veces. Queremos un hilo
+//por cada sumador y otro por cada restador. Es decir en este ejemplo habriamos creado 14 hilos
